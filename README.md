@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+<a href="mailto:augelis99@gmail.com"> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+
+<a href="https://www.linkedin.com/in/augustino-elisaia-7307a822b/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 <!--
 **elisaia55/elisaia55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
