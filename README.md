@@ -12,6 +12,8 @@
 ### Hi there!
 I am an ex-professional athlete that has now transitioned into a full-stack software engineer. I have a background in kinesiology with a concentration in exercise science. I am always open to collaborate and willing to explore more challenging coding problems. Please do not hesitate to reach out to me.
 
+### Technologies
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisaia55&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
