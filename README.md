@@ -16,6 +16,17 @@ I am an ex-professional athlete that has now transitioned into a full-stack soft
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisaia55&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+<img src="" />
+
+
 <!--
 **elisaia55/elisaia55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
