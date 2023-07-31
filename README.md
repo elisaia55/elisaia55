@@ -15,7 +15,7 @@ I am an ex-professional athlete that has now transitioned into a full-stack soft
 
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisaia55" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisaia55&theme=cobalt" />
 
 ### Technologies
 
