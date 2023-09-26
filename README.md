@@ -13,10 +13,6 @@
 ### Hi there!
 I am an ex-professional athlete that has now transitioned into a full-stack software engineer. I have a background in kinesiology with a concentration in exercise science. I am always open to collaborating and willing to explore more challenging coding problems. Please do not hesitate to reach out to me.
 
-
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=elisaia55&theme=cobalt&include_all_commits=true&show_icons=true" />
-
 ### Technologies
 
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
